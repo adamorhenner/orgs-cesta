@@ -1,5 +1,4 @@
 import Texto from '../../../componentes/Texto';
-import logo from '../../../../assets/logo.png';
 import { Image, StyleSheet, View } from "react-native";
 
 export default function Detalhes(){
