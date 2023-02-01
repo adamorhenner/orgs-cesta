@@ -8,7 +8,7 @@ export default function Cesta({ topo, detalhes }) {
         <Topo {...topo}/>
 
         <View style={estilos.cesta}>
-            <Detalhes/>
+            <Detalhes {...detalhes} />
         </View>
     </>
 }   
