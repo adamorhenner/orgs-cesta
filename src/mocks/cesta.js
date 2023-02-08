@@ -23,23 +23,23 @@ const cesta = {
         lista: [
             {
                 nome: "Tomate",
-                image: tomate,
+                imagem: tomate,
             },
             {
                 nome: "Brócolis",
-                image: brocolis,
+                imagem: brocolis,
             },
             {
                 nome: "Batata",
-                image: batata,
+                imagem: batata,
             },
             {
                 nome: "Pepino",
-                image: pepino,
+                imagem: pepino,
             },
             {
                 nome: "Abóbora",
-                image: abobora,
+                imagem: abobora,
             }
         ]
     }

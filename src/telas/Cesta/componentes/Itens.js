@@ -1,4 +1,4 @@
-import { Image, View } from 'react-native';
+import { Image, View, StyleSheet } from 'react-native';
 import Texto from '../../../componentes/Texto';
 
 
